@@ -1,5 +1,5 @@
 # Fuse Core Theme for Jekyll - Settings
-# https://github.com/eudhchc/eudhchc
+# https://github.com/tsjensen/fuse-core
 
 markdown: kramdown
 permalink: pretty
@@ -28,13 +28,13 @@ robots:
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
-url: https://eudhchc.github.io/fuse-core/
+url: https://tsjensen.github.io/fuse-core/
 
 # The 'baseurl' is prepended to all website-internal links.
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
 # If not empty, be careful to keep the leading slash, and don't add a slash at the end.
 #baseurl: ''
-baseurl: '/eudhchc'
+baseurl: '/fuse-core'
 
 # Enable Google Analytics. Leave empty (just "ga:" with subitems commented out) to disable.
 # In order to comply with EU cookie law, enable 'cookieconsent' to show a little popup asking users to acknowledge the GA cookies.
@@ -52,7 +52,7 @@ ga:
 # Leave empty (just "plausible:" with subitems commented out) to disable.
 #plausible:
 plausible:
-    domain: 'eudhchc.github.io'
+    domain: 'tsjensen.github.io'
 
 
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
