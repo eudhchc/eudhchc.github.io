@@ -11,6 +11,8 @@ lang: en-US
 # Site title
 title: "Scriptor"
 
+published : ture
+
 # A description of your site for meta tag, search engine results.
 description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
 
@@ -69,3 +71,10 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+# Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+future: true
