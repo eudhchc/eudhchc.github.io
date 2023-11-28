@@ -11,22 +11,20 @@ lang: en-US
 # Site title
 title: "Scriptor"
 
-published : ture
-
 # A description of your site for meta tag, search engine results.
 description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
 
-# The subpath of your gsite, e.g. /blog, for generating urls.
+# The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://eudhchc.github.io/"
+url: "https://scriptor-jekyll.netlify.com"
 
 # Favicon
 favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: "G-9DGN5DK5ZC"
+google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -39,7 +37,7 @@ navigation:
   - text: Tags
     url: /tags/
   - text: Download
-    url: https://github.com/eudhchc/eudhchc.github.io
+    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
@@ -72,4 +70,3 @@ sass:
   sass_dir: _sass
   style: compressed
 
-future: true
