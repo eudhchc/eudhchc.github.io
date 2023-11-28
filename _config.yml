@@ -71,10 +71,5 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
-# Math equation
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+
 future: true
