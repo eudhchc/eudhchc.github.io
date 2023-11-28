@@ -39,7 +39,7 @@ navigation:
   - text: Tags
     url: /tags/
   - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+    url: https://github.com/eudhchc/eudhchc.github.io
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
