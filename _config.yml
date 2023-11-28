@@ -17,7 +17,7 @@ published : ture
 description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "https://eudhchc.github.io/"
+baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://github.com/eudhchc/eudhchc.github.io/"
