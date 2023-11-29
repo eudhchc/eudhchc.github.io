@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About this blog
+title: 블로그 제작 방법
 description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
 ---
 
 Git hub 블로그 만들기!!
