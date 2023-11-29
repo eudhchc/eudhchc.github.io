@@ -30,9 +30,9 @@ navigation:
   - text: Home
     url: /
   - text: 블로그만드는법
-    url: /about/
+    url: /about
   - text: Style Guide
-    url: /style-guide/
+    url: /style-guide
   - text: 블로그 계시글
     url: /tags
   - text: 다운로드
