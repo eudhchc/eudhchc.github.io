@@ -33,8 +33,8 @@ navigation:
     url: /about/
   - text: Style Guide
     url: /style-guide/
-  - text: Tags
-    url: /tags/
+  - text: 블로그 계시글
+    url: /tags
   - text: Download
     url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
