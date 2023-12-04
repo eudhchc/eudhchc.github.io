@@ -12,7 +12,9 @@ lang: en-US
 title: "윤석의 블로그"
 
 # A description of your site for meta tag, search engine results.
-description: "블로그 계시글을 보고싶으면 오른쪽 메뉴에 블로그 게시글을 누르세요"
+description: "블로그 계시글을 보고싶으면 오른쪽 메뉴에 블로그 게시글을 누르세요
+![image](https://github.com/eudhchc/eudhchc.github.io/assets/74686852/9d87d3f8-3b4e-4f87-816f-838adb85f529)
+"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
