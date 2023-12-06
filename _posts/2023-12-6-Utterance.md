@@ -2,8 +2,8 @@
 layout: post
 published: true
 title: "Uttereance"
-date: 2023-12-4
-tags: [pygame function]
+date: 2023-12-6
+tags: [blog function]
 ---
 #Utteramce 댓글기능 추가방법
 ✏️ 댓글 기능을 추가하자!
