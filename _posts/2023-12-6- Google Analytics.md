@@ -2,8 +2,8 @@
 layout: post
 published: true
 title: "Google Analytiecs"
-date: 2023-12-4
-tags: [pygame function]
+date: 2023-12-6
+tags: [blog function]
 ---
 ##구글 Analytiecs기능
 지난번 만든 Gihub 블로그에 Google Analytics를 적용해 보도록 하겠습니다.
