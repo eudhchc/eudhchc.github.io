@@ -6,8 +6,12 @@ date: 2023-12-6
 tags: [blog function]
 ---
 #Utteramce 댓글기능 추가방법
+
+![image](https://github.com/eudhchc/eudhchc.github.io/assets/74686852/a4997bdd-26fd-455d-b786-862197a8f5d0)
 ✏️ 댓글 기능을 추가하자!
 블로그 커스터마이징이 어느정도 마무리 되어가고 있다.
+
+![image](https://github.com/eudhchc/eudhchc.github.io/assets/74686852/0f0bc777-9fdb-449f-a816-793527ce42d3)
 
 댓글 기능을 추가해보려고 하는데 Jekyll 기반의 블로그의 대부분은 Disqus를 사용하는 것 같다.
 
@@ -41,7 +45,7 @@ Utterances를 사용하면 Github 저장소의 Issue로 댓글을 관리할 수 
 Install 버튼을 누르면 저장소를 선택하는 화면이 나온다.
 
 
-
+![image](https://github.com/eudhchc/eudhchc.github.io/assets/74686852/bafcdf87-83f0-454a-b85d-bf07a68302b5)
 댓글을 이슈로 관리할 저장소를 선택하면 된다.
 
 나는 블로그 저장소를 private로 설정해놨기 때문에 댓글 관리를 위한 public 저장소를 새로 만들었다.
@@ -77,7 +81,7 @@ repo에 계정명/저장소이름 을 입력하면 된다.
 3. _layout/post.html에 추가
 지금 사용하고 있는 테마는 기본적으로 disqus를 사용하도록 되어있다.
 우리는 disqus가 필요 없으므로, 관련 코드들을 모두 주석시키자
-
+![image](https://github.com/eudhchc/eudhchc.github.io/assets/74686852/8e6dc4a4-1c8d-4e95-bec5-4310e66001f8)
 
 
 이제 그 위치에 복사한 Utterances 스크립트를 추가하자.
